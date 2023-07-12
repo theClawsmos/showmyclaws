@@ -15,3 +15,6 @@ To make this, follow these instructions:
 
 ## This repo is very much open to Issues / Bug reports
 - Make sure to read the [CoC](https://gitcodeofconduct.carrd.co) and [Contributing](https://clawsmoscontributing.carrd.co/) files. Im sorry its alot. Just do it when you have time. Okay?
+
+### This repo was base off of zirneklitis' ShowMouse
+TYSM zirneklitis
